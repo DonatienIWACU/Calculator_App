@@ -23,6 +23,5 @@ JavaScript (ES6) – calculator logic and event handling
 
 🖼️ Preview
 
-[Live Preview](https://lovely-smartcalc.netlify.app/)
-[GitHub Repository](https://github.com/DonatienIWACU/Calculator-app)
+[https://lovely-smartcalc.netlify.app/](https://lovely-smartcalc.netlify.app/)
 
