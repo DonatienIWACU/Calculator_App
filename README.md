@@ -25,4 +25,4 @@ JavaScript (ES6) – calculator logic and event handling
 
 (Add your app screenshot or GIF demo here)
 
-![Calculator Preview](Calculator_App.png)
+![Calculator Preview](Calculator_App.PNG)
