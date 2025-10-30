@@ -21,8 +21,3 @@ CSS3 – layout and styling
 
 JavaScript (ES6) – calculator logic and event handling
 
-🖼️ Preview
-
-(Add your app screenshot or GIF demo here)
-
-![Calculator Preview](Calculator_App.PNG)
